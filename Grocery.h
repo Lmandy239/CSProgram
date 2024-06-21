@@ -4,6 +4,7 @@
 #define GROCERY_H
 
 #include <string>
+//including maps
 #include <map>
 
 using namespace std;
@@ -18,7 +19,8 @@ public:
     void displayHistogram();
     void interactiveMenu();
 private:
-    //private map 
+    //private map delcaration (will be used later)
+    //takes in a string name and has a numerical value int
     map<string, int> itemFrequency;
     //method that will use infstream with an input string "" file  to load/read items
     void loadItemsFromFile(const string& filename);
