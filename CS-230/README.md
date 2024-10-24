@@ -14,9 +14,9 @@ One of the most solid parts of my project was my clear and concise executive sum
 I found that during the early stages, the domain model is extremely efficient in helping develop code. This is because a UML diagram is where one can properly plan the classes, apply OOP principles, and create a structure or blueprint for the future code. However, another part of the process that I found helpful when developing code was the executive summary portion. This is because "dumbing down" a project and using simple words to explain it helps create a better mental image of it. Furthermore, this puts it into perspective and lets one know exactly what they should be coding. In essence, writing problems in English before writing them in code is a great way to breakdown problems.
 
 
-## What Can Be Improve and how can it be improved?
+## What would I revise and how could it be improved?
 
-While the evaluation of the characteristics, advantages, and weaknesses of each operating platform (Linux, Mac, Windows) and mobile devices meets the clients criteria, I believe it could be somewhat enhanced. This limitation stems from the lack of class material on this subject, as well as my lack of experience with these platforms. These two factors impacted the depth of analysis provided. The course did not provide enough resources or cover some platforms in sufficient detail to properly address the sections posed.
+While the evaluation of the characteristics, advantages, and weaknesses of each operating platform (Linux, Mac, Windows) and mobile devices meets the clients criteria, I believe it could be revised and somewhat enhanced. There is a limitation that stems from the lack of class material on this subject, as well as my lack of experience with these platforms. These two factors impacted the depth of analysis provided. The course did not provide enough resources or cover some platforms in sufficient detail to properly address the sections posed.
 
 In an ideal scenario, I would improve this section by incorporating more comprehensive knowledge and specifications from specific platform-related documentation. This would involve conducting having access to the right documentation in order to provide the best possible evaluation for the client. 
 
